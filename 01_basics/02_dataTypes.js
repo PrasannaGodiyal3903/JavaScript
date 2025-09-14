@@ -3,6 +3,6 @@
 //bigint
 //string
 //boolean
-//null
+//null -->jab type of likhenge iska tb object aata hai
 //symbol ->unique
 //object
